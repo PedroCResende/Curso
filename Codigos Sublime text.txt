@@ -1,0 +1,13 @@
+Códigos Sublime text
+
+<p> </p> - Parágrafo
+
+<h2> </h2> - Cabeçalho
+
+<hr> - Dividir com uma linha
+
+<ol> </ol> - Lista ordenada
+
+<ul> </ul> - Lista não ordenada
+
+<li> </li> - Itens da lista
